@@ -1,16 +1,19 @@
-p{color: red;
-}
 
 h1{
-color: navy;
+color: black;
 }
 
 h2{
 color: #68ade8;
 }
 
+body{
+
+  
+}
+
 header{
-  background-color:#ff9e7a;
+  background-image: url(https://www.bing.com/th?id=OIP.OUxvuadCTbc5K9PQOQrNzgHaCd&w=298&h=100&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
   border-top: 2px solid;
   border-bottom: 3px solid;
   border-color:#68ade8;
@@ -50,4 +53,9 @@ border-color:#68ade8;
     column-count:3;
     border:20px dotted black;
   }
+}
+
+.team-text{
+text-align:center;
+  
 }
