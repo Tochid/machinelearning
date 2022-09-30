@@ -1,0 +1,53 @@
+p{color: red;
+}
+
+h1{
+color: navy;
+}
+
+h2{
+color: #68ade8;
+}
+
+header{
+  background-color:#ff9e7a;
+  border-top: 2px solid;
+  border-bottom: 3px solid;
+  border-color:#68ade8;
+}
+
+hr{
+border-color: gray;
+}
+
+footer{
+background-color:#ff9e7a;
+color:navy;
+border-top: 2px solid;
+border-bottom: 2px solid;
+border-color:#68ade8;
+}
+
+.container{
+  margin:20px;
+  border:1px solid black;
+  padding: 20px;
+}
+
+@media (max-width: 600px) {  
+  .container p{
+    column-count:2;
+    background-color:orange;
+  }
+
+  h1{
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 800px) {
+  .container p{
+    column-count:3;
+    border:20px dotted black;
+  }
+}
