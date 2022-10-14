@@ -59,3 +59,12 @@ border-color:#68ade8;
 text-align:center;
   
 }
+
+.card{
+max-width: 40%;
+height: auto;
+}
+
+.pfp{
+text-align:center;
+}
