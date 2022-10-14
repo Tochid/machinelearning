@@ -1,6 +1,10 @@
 
 h1{
-color: black;
+color: white;
+}
+
+a{
+color: white;
 }
 
 h2{
@@ -17,6 +21,7 @@ header{
   border-top: 2px solid;
   border-bottom: 3px solid;
   border-color:#68ade8;
+  color: white;
 }
 
 hr{
@@ -24,8 +29,8 @@ border-color: gray;
 }
 
 footer{
-background-color:#ff9e7a;
-color:navy;
+  background-image: url(https://www.bing.com/th?id=OIP.OUxvuadCTbc5K9PQOQrNzgHaCd&w=298&h=100&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
+color:white;
 border-top: 2px solid;
 border-bottom: 2px solid;
 border-color:#68ade8;
@@ -65,6 +70,6 @@ max-width: 40%;
 height: auto;
 }
 
-.pfp{
+.image-name{
 text-align:center;
 }
